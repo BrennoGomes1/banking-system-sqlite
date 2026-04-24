@@ -89,7 +89,6 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 **👨‍💻 Autor**
 
 Brenno Gomes
-Estudante de Ciência da Computação focado em desenvolvimento de software.
 
 ---
 
