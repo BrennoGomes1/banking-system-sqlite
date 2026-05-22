@@ -1,11 +1,11 @@
-**💰 Banking System (SQLite + Python)**
+** Banking System (SQLite + Python)**
 
 Sistema bancário simples desenvolvido em Python utilizando SQLite como banco de dados.
 O projeto simula operações básicas de uma conta bancária, com foco em lógica de programação e manipulação de dados.
 
 ---
 
-🚀 Funcionalidades
+ Funcionalidades
 
 * Criar conta bancária
 * Consultar saldo
@@ -16,7 +16,7 @@ O projeto simula operações básicas de uma conta bancária, com foco em lógic
 
 ---
 
-**🛠️ Tecnologias utilizadas**
+** Tecnologias utilizadas**
 
 * Python 3
 * SQLite (banco de dados local)
@@ -24,7 +24,7 @@ O projeto simula operações básicas de uma conta bancária, com foco em lógic
 
 ---
 
-**📂 Estrutura do projeto**
+** Estrutura do projeto**
 
 ```
 banking-system-sqlite/
@@ -36,7 +36,7 @@ banking-system-sqlite/
 
 ---
 
-**▶️ Como executar o projeto**
+** Como executar o projeto**
 
 1. Clone o repositório:
 
@@ -58,14 +58,14 @@ python main.py
 
 ---
 
-**🗄️ Banco de dados**
+** Banco de dados**
 
 * O banco de dados SQLite é criado automaticamente ao executar o projeto.
 * O arquivo `.db` não está incluído no repositório por ser gerado localmente.
 
 ---
 
-**📌 Objetivo do projeto**
+** Objetivo do projeto**
 
 Este projeto foi desenvolvido com o objetivo de praticar:
 
@@ -76,7 +76,7 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 ---
 
-**📈 Possíveis melhorias**
+** Possíveis melhorias**
 
 * Interface gráfica (GUI)
 * API com Flask ou .NET
@@ -86,7 +86,7 @@ Este projeto foi desenvolvido com o objetivo de praticar:
 
 ---
 
-**👨‍💻 Autor**
+** Autor**
 
 Brenno Gomes
 
