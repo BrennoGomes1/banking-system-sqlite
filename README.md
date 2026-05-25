@@ -1,97 +1,96 @@
-## **Banking System (SQLite + Python)**
+# Banking System (SQLite + Python)
 
-Sistema bancário simples desenvolvido em Python utilizando SQLite como banco de dados.
-O projeto simula operações básicas de uma conta bancária, com foco em lógica de programação e manipulação de dados.
+Sistema bancário desenvolvido em Python utilizando SQLite como banco de dados local.
 
----
-
- Funcionalidades
-
-* Criar conta bancária
-* Consultar saldo
-* Realizar depósitos
-* Realizar saques
-* Armazenamento de dados com SQLite
-* Persistência de dados local
+O projeto simula operações básicas de uma conta bancária, com foco em lógica de programação, persistência de dados e estruturação de aplicações back-end.
 
 ---
 
-** Tecnologias utilizadas**
+## Funcionalidades
 
-* Python 3
-* SQLite (banco de dados local)
-* Biblioteca `sqlite3` (nativa do Python)
+- Criação de contas bancárias
+- Consulta de saldo
+- Depósitos
+- Saques
+- Persistência de dados com SQLite
+- Armazenamento local de informações
 
 ---
 
-** Estrutura do projeto**
+## Tecnologias Utilizadas
 
-```
+- Python 3
+- SQLite
+- Biblioteca nativa `sqlite3`
+
+---
+
+## Estrutura do Projeto
+
+```bash
 banking-system-sqlite/
 │
-├── main.py        # Arquivo principal com a lógica do sistema
-├── .gitignore     # Arquivos ignorados pelo Git
-└── README.md      # Documentação do projeto
+├── main.py
+├── .gitignore
+└── README.md
 ```
 
 ---
 
-** Como executar o projeto**
+## Como Executar
 
-1. Clone o repositório:
+### 1. Clone o repositório
 
-```
+```bash
 git clone https://github.com/BrennoGomes1/banking-system-sqlite.git
 ```
 
-2. Acesse a pasta:
+### 2. Acesse a pasta do projeto
 
-```
+```bash
 cd banking-system-sqlite
 ```
 
-3. Execute o projeto:
+### 3. Execute o sistema
 
-```
+```bash
 python main.py
 ```
 
 ---
 
-** Banco de dados**
+## Banco de Dados
 
-* O banco de dados SQLite é criado automaticamente ao executar o projeto.
-* O arquivo `.db` não está incluído no repositório por ser gerado localmente.
+O banco de dados SQLite é criado automaticamente na primeira execução do projeto.
 
----
-
-** Objetivo do projeto**
-
-Este projeto foi desenvolvido com o objetivo de praticar:
-
-* Lógica de programação
-* Manipulação de banco de dados
-* Estruturação de projetos em Python
-* Simulação de regras de negócio
+O arquivo `.db` não é enviado para o repositório por ser gerado localmente.
 
 ---
 
-** Possíveis melhorias**
+## Objetivo do Projeto
 
-* Interface gráfica (GUI)
-* API com Flask ou .NET
-* Sistema de autenticação de usuários
-* Histórico de transações
-* Validações mais robustas
+Este projeto foi desenvolvido para praticar:
 
----
+- Lógica de programação
+- Manipulação de banco de dados
+- Persistência de dados
+- Estruturação de aplicações em Python
+- Simulação de regras de negócio
 
-** Autor**
+
+
+## Autor
 
 Brenno Gomes
 
+GitHub:
+https://github.com/BrennoGomes1
+
+LinkedIn:
+https://www.linkedin.com/in/brenno-santos1/
+
 ---
 
-**📄 Licença**
+## Licença
 
-Este projeto é apenas para fins educacionais.
+Este projeto foi desenvolvido apenas para fins educacionais.
