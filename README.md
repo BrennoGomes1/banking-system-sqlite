@@ -1,4 +1,4 @@
-** Banking System (SQLite + Python)**
+## **Banking System (SQLite + Python)**
 
 Sistema bancário simples desenvolvido em Python utilizando SQLite como banco de dados.
 O projeto simula operações básicas de uma conta bancária, com foco em lógica de programação e manipulação de dados.
